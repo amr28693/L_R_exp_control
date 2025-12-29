@@ -1,0 +1,175 @@
+{
+  "known_attractors": {
+    "61912b91": {
+      "count": 84,
+      "first_seen": "2025-12-26T23:10:51.170246",
+      "last_seen": "2025-12-26T23:11:06.274153",
+      "avg_mood": 0.859498821090492,
+      "regime": "waking"
+    },
+    "52e15c3a": {
+      "count": 2,
+      "first_seen": "2025-12-26T23:11:02.278693",
+      "last_seen": "2025-12-26T23:11:02.436022",
+      "avg_mood": 0.6997868130893985,
+      "regime": "waking"
+    },
+    "40c94946": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:02.596563",
+      "last_seen": "2025-12-26T23:11:02.596563",
+      "avg_mood": 0.7483569547622385,
+      "regime": "waking"
+    },
+    "49026125": {
+      "count": 7,
+      "first_seen": "2025-12-26T23:11:02.755404",
+      "last_seen": "2025-12-26T23:11:03.867579",
+      "avg_mood": 0.8144682106801396,
+      "regime": "waking"
+    },
+    "58101027": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:03.394252",
+      "last_seen": "2025-12-26T23:11:03.394252",
+      "avg_mood": 0.8594366872122076,
+      "regime": "waking"
+    },
+    "042f0789": {
+      "count": 24,
+      "first_seen": "2025-12-26T23:11:06.433216",
+      "last_seen": "2025-12-26T23:11:33.464124",
+      "avg_mood": 0.8995372800000001,
+      "regime": "waking"
+    },
+    "0a15fc37": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:07.885700",
+      "last_seen": "2025-12-26T23:11:07.885700",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "2cfa81fd": {
+      "count": 3,
+      "first_seen": "2025-12-26T23:11:08.050471",
+      "last_seen": "2025-12-26T23:11:08.378714",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "1138fb8e": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:08.541217",
+      "last_seen": "2025-12-26T23:11:08.541217",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "d5fff5f8": {
+      "count": 14,
+      "first_seen": "2025-12-26T23:11:10.483739",
+      "last_seen": "2025-12-26T23:11:32.978884",
+      "avg_mood": 0.8991910742137398,
+      "regime": "waking"
+    },
+    "b1459cb3": {
+      "count": 12,
+      "first_seen": "2025-12-26T23:11:11.614717",
+      "last_seen": "2025-12-26T23:11:16.587254",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "a1b3cfaf": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:12.938429",
+      "last_seen": "2025-12-26T23:11:12.938429",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "ecd6caf4": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:13.105693",
+      "last_seen": "2025-12-26T23:11:13.105693",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "217558db": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:13.272196",
+      "last_seen": "2025-12-26T23:11:13.272196",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "96506c62": {
+      "count": 10,
+      "first_seen": "2025-12-26T23:11:13.440361",
+      "last_seen": "2025-12-26T23:11:15.442909",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "499ff821": {
+      "count": 2,
+      "first_seen": "2025-12-26T23:11:13.775239",
+      "last_seen": "2025-12-26T23:11:13.940853",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "4fd59893": {
+      "count": 2,
+      "first_seen": "2025-12-26T23:11:15.281519",
+      "last_seen": "2025-12-26T23:11:15.607933",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "42892ad2": {
+      "count": 2,
+      "first_seen": "2025-12-26T23:11:15.771124",
+      "last_seen": "2025-12-26T23:11:15.924639",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "b634e83c": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:16.753140",
+      "last_seen": "2025-12-26T23:11:16.753140",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "96ae9060": {
+      "count": 23,
+      "first_seen": "2025-12-26T23:11:28.123822",
+      "last_seen": "2025-12-26T23:11:31.669561",
+      "avg_mood": 0.8914417504613229,
+      "regime": "waking"
+    },
+    "1a5d3a3a": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:33.627820",
+      "last_seen": "2025-12-26T23:11:33.627820",
+      "avg_mood": 0.8952382976,
+      "regime": "waking"
+    },
+    "15d29285": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:33.794446",
+      "last_seen": "2025-12-26T23:11:33.794446",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "981ce319": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:33.960401",
+      "last_seen": "2025-12-26T23:11:33.960401",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    },
+    "cbb89667": {
+      "count": 1,
+      "first_seen": "2025-12-26T23:11:34.129181",
+      "last_seen": "2025-12-26T23:11:34.129181",
+      "avg_mood": 0.9,
+      "regime": "waking"
+    }
+  },
+  "total_visits": 197,
+  "waking_attractors": 24,
+  "dream_attractors": 0
+}
