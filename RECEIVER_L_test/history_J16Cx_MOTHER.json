@@ -1,0 +1,26 @@
+{
+  "series": "J16Cx",
+  "birth_date": "2025-12-26T23:10:48.821548",
+  "total_runtime_hours": 0.042772732509507076,
+  "total_interactions": 927,
+  "last_session": "2025-12-26T23:13:22.817176",
+  "last_mood": 0.9,
+  "dream_enabled": true,
+  "synth": {
+    "root_midi": 48,
+    "scale": "minor_pent",
+    "max_voices": 3,
+    "limiter_drive": 6000000.5
+  },
+  "attractors": {
+    "total": 24,
+    "waking": 24,
+    "dream": 0
+  },
+  "paths": {
+    "total": 770,
+    "waking": 770,
+    "dream": 0
+  },
+  "transitions": 616
+}
